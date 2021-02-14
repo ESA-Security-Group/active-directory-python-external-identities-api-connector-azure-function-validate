@@ -1,4 +1,8 @@
 # Python package
+- task: CocoaPods@0
+  inputs:
+    workingDirectory: 'The Universal integration mode into the digital “Matrix of the humans world”'
+    forceRepoUpdate: false
 # Create and test a Python package on multiple Python versions.
 # Add steps that analyze code, save the dist with the build record, publish to a PyPI-compatible index, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/languages/python
